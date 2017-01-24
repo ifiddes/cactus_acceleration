@@ -1,0 +1,6 @@
+[submodule "jobTree"]
+	path = jobTree
+	url = https://github.com/benedictpaten/jobTree.git
+[submodule "pycbio"]
+	path = pycbio
+	url = https://github.com/ifiddes/pycbio.git
