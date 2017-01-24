@@ -4,3 +4,6 @@
 [submodule "pycbio"]
 	path = pycbio
 	url = https://github.com/ifiddes/pycbio.git
+[submodule "hal"]
+	path = hal
+	url = https://github.com/ComparativeGenomicsToolkit/hal.git
